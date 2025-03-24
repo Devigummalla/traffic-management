@@ -1,2 +1,2 @@
-# traffice-management
+# traffic-management
 traffic violation and accident detection system
